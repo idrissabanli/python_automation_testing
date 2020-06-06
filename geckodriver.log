@@ -1,0 +1,147 @@
+1591460770269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenK6syl"
+1591460778723	Marionette	INFO	Listening on port 34875
+1591460778799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591460787178	Marionette	INFO	Stopped listening on port 34875
+1591461465924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE5uhFn"
+1591461473921	Marionette	INFO	Listening on port 42523
+1591461473962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591461482815	Marionette	INFO	Stopped listening on port 42523
+1591461530671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1bOAk5"
+1591461540417	Marionette	INFO	Listening on port 36789
+1591461540516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591461548053	Marionette	INFO	Stopped listening on port 36789
+1591461577145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAL4PGj"
+1591461585086	Marionette	INFO	Listening on port 39675
+1591461585197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591461594278	Marionette	INFO	Stopped listening on port 39675
+1591461624345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee2ambE"
+1591461631946	Marionette	INFO	Listening on port 45529
+1591461632075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591461640862	Marionette	INFO	Stopped listening on port 45529
+1591461781752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegdwErX"
+1591461789117	Marionette	INFO	Listening on port 40781
+1591461789175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591461799719	Marionette	INFO	Stopped listening on port 40781
+1591462547049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI3wfdu"
+1591462554465	Marionette	INFO	Listening on port 35777
+1591462554492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591462566782	Marionette	INFO	Stopped listening on port 35777
+1591462644795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevTPzPA"
+1591462652550	Marionette	INFO	Listening on port 45455
+1591462652636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591462664933	Marionette	INFO	Stopped listening on port 45455
+1591462828250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecmO8zY"
+1591462839050	Marionette	INFO	Listening on port 41665
+1591462839085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591462848461	Marionette	INFO	Stopped listening on port 41665
+1591462890330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoRlj7t"
+1591462897750	Marionette	INFO	Listening on port 34109
+1591462899440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591462909856	Marionette	INFO	Stopped listening on port 34109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591462958987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyWuR2K"
+1591462965964	Marionette	INFO	Listening on port 34741
+1591462966007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591462978737	Marionette	INFO	Stopped listening on port 34741
+1591463542842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile828mOc"
+1591463549236	Marionette	INFO	Listening on port 39373
+1591463549270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463561760	Marionette	INFO	Stopped listening on port 39373
+1591463593616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilektb4i1"
+1591463600377	Marionette	INFO	Listening on port 40083
+1591463600473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463611905	Marionette	INFO	Stopped listening on port 40083
+1591463648850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCKvbP9"
+1591463657186	Marionette	INFO	Listening on port 36021
+1591463657279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463666597	Marionette	INFO	Stopped listening on port 36021
+1591463773304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLJ0UHF"
+1591463781562	Marionette	INFO	Listening on port 44627
+1591463781635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463790266	Marionette	INFO	Stopped listening on port 44627
+1591463793651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePm85q0"
+1591463799581	Marionette	INFO	Listening on port 43761
+1591463799674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463810899	Marionette	INFO	Stopped listening on port 43761
+1591463854665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNMCVit"
+1591463860809	Marionette	INFO	Listening on port 40901
+1591463860893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463869598	Marionette	INFO	Stopped listening on port 40901
+1591463873482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRdFeQa"
+1591463879745	Marionette	INFO	Listening on port 38509
+1591463879809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463892644	Marionette	INFO	Stopped listening on port 38509
+1591463925191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiiOX1g"
+1591463931448	Marionette	INFO	Listening on port 38245
+1591463931513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463941524	Marionette	INFO	Stopped listening on port 38245
+1591463944718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVjUX4H"
+1591463950614	Marionette	INFO	Listening on port 41959
+1591463950647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463961246	Marionette	INFO	Stopped listening on port 41959
+1591464130732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTDcOzC"
+1591464139479	Marionette	INFO	Listening on port 40659
+1591464139580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464148415	Marionette	INFO	Stopped listening on port 40659
+1591464152312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVs1A25"
+1591464159912	Marionette	INFO	Listening on port 40795
+1591464159975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464171799	Marionette	INFO	Stopped listening on port 40795
+1591464188545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehOC8fX"
+1591464195657	Marionette	INFO	Listening on port 46325
+1591464195697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464205857	Marionette	INFO	Stopped listening on port 46325
+1591464209345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMhngr0"
+1591464218271	Marionette	INFO	Listening on port 33619
+1591464218372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464228561	Marionette	INFO	Stopped listening on port 33619
+1591464254181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI3fIWX"
+1591464261616	Marionette	INFO	Listening on port 36513
+1591464261705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464272393	Marionette	INFO	Stopped listening on port 36513
+1591464276268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePv6nj2"
+1591464286432	Marionette	INFO	Listening on port 34233
+1591464286504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464296452	Marionette	INFO	Stopped listening on port 34233
+1591464334959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9mX9Yq"
+1591464344122	Marionette	INFO	Listening on port 37073
+1591464344248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464354307	Marionette	INFO	Stopped listening on port 37073
+1591464421608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP48VxQ"
+1591464430304	Marionette	INFO	Listening on port 43147
+1591464430344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464440493	Marionette	INFO	Stopped listening on port 43147
+1591464830272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaKQJcC"
+1591464840425	Marionette	INFO	Listening on port 44143
+1591464840513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464849374	Marionette	INFO	Stopped listening on port 44143
+1591464892628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRhM3IB"
+1591464899763	Marionette	INFO	Listening on port 41217
+1591464899854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591464911599	Marionette	INFO	Stopped listening on port 41217
+1591465113958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0qfGMF"
+1591465120766	Marionette	INFO	Listening on port 42107
+1591465120807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591465131332	Marionette	INFO	Stopped listening on port 42107
+1591465412946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaifCyM"
+1591465420118	Marionette	INFO	Listening on port 35787
+1591465420182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591465431723	Marionette	INFO	Stopped listening on port 35787
+1591465749295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7II6KI"
+1591465760351	Marionette	INFO	Listening on port 44795
+1591465760502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591465769793	Marionette	INFO	Stopped listening on port 44795
+1591465773732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ5bmMi"
+1591465781682	Marionette	INFO	Listening on port 34741
+1591465781760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591465788972	Marionette	INFO	Stopped listening on port 34741
+1591465819509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQOivmL"
+1591465831110	Marionette	INFO	Listening on port 35557
+1591465831161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591465836405	Marionette	INFO	Stopped listening on port 35557
+1591465840801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8tb9mB"
+1591465850057	Marionette	INFO	Listening on port 39481
+1591465850136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591465859212	Marionette	INFO	Stopped listening on port 39481
